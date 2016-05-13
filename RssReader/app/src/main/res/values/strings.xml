@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RssReader</string>
+
+    <string name="hello_world">ここに読み込み結果を表示します</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">SplashActivity</string>
+</resources>
